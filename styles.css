@@ -11,9 +11,9 @@
 
 p {
   display: block;
-  width: 400px;
-  margin: 10px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  width: 100px;
+  margin: 1px auto;
+  font: 15px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   color:maroon;
 }
 
